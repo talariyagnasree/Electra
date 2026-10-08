@@ -1,0 +1,619 @@
+[
+  {
+    "code": "CS501",
+    "title": "Deep Learning",
+    "credits": 3,
+    "category": "AI",
+    "description": "Neural networks from perceptrons to CNNs, RNNs and transformers with PyTorch.",
+    "syllabus_topics": [
+      "backpropagation",
+      "CNN",
+      "RNN",
+      "transformers",
+      "optimization",
+      "PyTorch labs"
+    ],
+    "prerequisites": [
+      "CS301"
+    ],
+    "required_skills": {
+      "python": 3,
+      "math": 3,
+      "machine learning": 3
+    },
+    "skills_gained": [
+      "deep learning",
+      "pytorch",
+      "neural networks"
+    ],
+    "career_paths": [
+      "ML engineer",
+      "AI researcher",
+      "data scientist"
+    ],
+    "difficulty": 4,
+    "weekly_hours": 9,
+    "min_cgpa": 7.0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS502",
+    "title": "Natural Language Processing",
+    "credits": 3,
+    "category": "AI",
+    "description": "Text processing, embeddings, sequence models, language models and applications like chatbots and translation.",
+    "syllabus_topics": [
+      "tokenization",
+      "word embeddings",
+      "seq2seq",
+      "attention",
+      "language models",
+      "text classification"
+    ],
+    "prerequisites": [
+      "CS301"
+    ],
+    "required_skills": {
+      "python": 3,
+      "machine learning": 2
+    },
+    "skills_gained": [
+      "nlp",
+      "transformers",
+      "text mining"
+    ],
+    "career_paths": [
+      "NLP engineer",
+      "LLM engineer",
+      "chatbot developer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 8,
+    "min_cgpa": 6.5,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS503",
+    "title": "Computer Vision",
+    "credits": 3,
+    "category": "AI",
+    "description": "Image formation, feature extraction, object detection, segmentation and video understanding.",
+    "syllabus_topics": [
+      "image filtering",
+      "CNN detection",
+      "segmentation",
+      "OpenCV labs",
+      "3D vision basics"
+    ],
+    "prerequisites": [
+      "CS301"
+    ],
+    "required_skills": {
+      "python": 3,
+      "math": 3,
+      "machine learning": 2
+    },
+    "skills_gained": [
+      "computer vision",
+      "opencv",
+      "image processing"
+    ],
+    "career_paths": [
+      "CV engineer",
+      "robotics engineer",
+      "AI researcher"
+    ],
+    "difficulty": 4,
+    "weekly_hours": 9,
+    "min_cgpa": 7.0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS504",
+    "title": "Reinforcement Learning",
+    "credits": 3,
+    "category": "AI",
+    "description": "MDPs, dynamic programming, Q-learning, policy gradients and deep RL for control and games.",
+    "syllabus_topics": [
+      "MDP",
+      "Q-learning",
+      "policy gradient",
+      "actor-critic",
+      "simulation environments"
+    ],
+    "prerequisites": [
+      "CS301",
+      "MA201"
+    ],
+    "required_skills": {
+      "python": 3,
+      "math": 4,
+      "machine learning": 3
+    },
+    "skills_gained": [
+      "reinforcement learning",
+      "decision making",
+      "simulation"
+    ],
+    "career_paths": [
+      "AI researcher",
+      "robotics engineer",
+      "game AI developer"
+    ],
+    "difficulty": 5,
+    "weekly_hours": 11,
+    "min_cgpa": 8.0,
+    "offered": "both",
+    "min_semester": 6
+  },
+  {
+    "code": "CS510",
+    "title": "Big Data Analytics",
+    "credits": 3,
+    "category": "Data",
+    "description": "Distributed data processing with Hadoop and Spark, streaming, data lakes and analytics pipelines.",
+    "syllabus_topics": [
+      "MapReduce",
+      "Spark",
+      "streaming",
+      "data lakes",
+      "pipeline design"
+    ],
+    "prerequisites": [
+      "CS210"
+    ],
+    "required_skills": {
+      "sql": 3,
+      "python": 2
+    },
+    "skills_gained": [
+      "big data",
+      "spark",
+      "data engineering"
+    ],
+    "career_paths": [
+      "data engineer",
+      "analytics engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 8,
+    "min_cgpa": 6.0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS511",
+    "title": "Data Mining & Analytics",
+    "credits": 3,
+    "category": "Data",
+    "description": "Pattern mining, clustering, classification, recommender systems and visualization.",
+    "syllabus_topics": [
+      "association rules",
+      "clustering",
+      "recommender systems",
+      "dashboarding"
+    ],
+    "prerequisites": [
+      "CS210"
+    ],
+    "required_skills": {
+      "python": 2,
+      "sql": 2
+    },
+    "skills_gained": [
+      "data mining",
+      "analytics",
+      "visualization"
+    ],
+    "career_paths": [
+      "data analyst",
+      "data scientist",
+      "BI developer"
+    ],
+    "difficulty": 2,
+    "weekly_hours": 6,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS520",
+    "title": "Cloud Computing",
+    "credits": 3,
+    "category": "Systems",
+    "description": "Virtualization, containers, serverless, cloud architecture patterns on AWS/Azure/GCP.",
+    "syllabus_topics": [
+      "virtualization",
+      "containers",
+      "Kubernetes basics",
+      "serverless",
+      "cloud cost"
+    ],
+    "prerequisites": [
+      "CS220"
+    ],
+    "required_skills": {
+      "python": 2
+    },
+    "skills_gained": [
+      "cloud",
+      "docker",
+      "kubernetes"
+    ],
+    "career_paths": [
+      "cloud engineer",
+      "devops engineer",
+      "backend engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 7,
+    "min_cgpa": 6.0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS521",
+    "title": "Distributed Systems",
+    "credits": 3,
+    "category": "Systems",
+    "description": "Consensus, replication, fault tolerance, distributed storage and transactions.",
+    "syllabus_topics": [
+      "Raft/Paxos",
+      "replication",
+      "CAP theorem",
+      "distributed databases"
+    ],
+    "prerequisites": [
+      "CS220",
+      "CS201"
+    ],
+    "required_skills": {
+      "python": 3,
+      "operating systems": 3
+    },
+    "skills_gained": [
+      "distributed systems",
+      "fault tolerance",
+      "system design"
+    ],
+    "career_paths": [
+      "backend engineer",
+      "systems engineer"
+    ],
+    "difficulty": 4,
+    "weekly_hours": 9,
+    "min_cgpa": 7.5,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS530",
+    "title": "Cybersecurity Fundamentals",
+    "credits": 3,
+    "category": "Security",
+    "description": "Threat modelling, network and web security, secure coding and incident response.",
+    "syllabus_topics": [
+      "threat modelling",
+      "OWASP top 10",
+      "network security",
+      "pentest labs"
+    ],
+    "prerequisites": [],
+    "required_skills": {
+      "networking": 2
+    },
+    "skills_gained": [
+      "security",
+      "pentesting",
+      "secure coding"
+    ],
+    "career_paths": [
+      "security analyst",
+      "SOC engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 7,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS531",
+    "title": "Applied Cryptography",
+    "credits": 3,
+    "category": "Security",
+    "description": "Symmetric/asymmetric cryptography, hashing, PKI, protocols and blockchain basics.",
+    "syllabus_topics": [
+      "AES",
+      "RSA",
+      "ECC",
+      "TLS",
+      "zero-knowledge intro"
+    ],
+    "prerequisites": [
+      "MA201"
+    ],
+    "required_skills": {
+      "math": 4
+    },
+    "skills_gained": [
+      "cryptography",
+      "number theory"
+    ],
+    "career_paths": [
+      "security engineer",
+      "blockchain developer"
+    ],
+    "difficulty": 4,
+    "weekly_hours": 8,
+    "min_cgpa": 7.5,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS540",
+    "title": "Full-Stack Web Development",
+    "credits": 3,
+    "category": "Software",
+    "description": "Modern web apps with React, REST/GraphQL APIs, databases, authentication and deployment.",
+    "syllabus_topics": [
+      "React",
+      "Node/FastAPI",
+      "REST",
+      "SQL/NoSQL",
+      "auth",
+      "CI/CD"
+    ],
+    "prerequisites": [],
+    "required_skills": {
+      "python": 2
+    },
+    "skills_gained": [
+      "web development",
+      "react",
+      "apis"
+    ],
+    "career_paths": [
+      "full-stack developer",
+      "backend engineer",
+      "startup engineer"
+    ],
+    "difficulty": 2,
+    "weekly_hours": 7,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS541",
+    "title": "Software Architecture & DevOps",
+    "credits": 3,
+    "category": "Software",
+    "description": "Design patterns, microservices, testing strategy, CI/CD pipelines and observability.",
+    "syllabus_topics": [
+      "microservices",
+      "design patterns",
+      "CI/CD",
+      "monitoring",
+      "testing"
+    ],
+    "prerequisites": [
+      "CS201"
+    ],
+    "required_skills": {
+      "python": 3
+    },
+    "skills_gained": [
+      "software architecture",
+      "devops",
+      "testing"
+    ],
+    "career_paths": [
+      "software architect",
+      "devops engineer",
+      "backend engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 7,
+    "min_cgpa": 6.0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS550",
+    "title": "Human-Computer Interaction",
+    "credits": 3,
+    "category": "Design",
+    "description": "User research, prototyping, usability evaluation and interaction design.",
+    "syllabus_topics": [
+      "user research",
+      "wireframing",
+      "usability testing",
+      "accessibility"
+    ],
+    "prerequisites": [],
+    "required_skills": {},
+    "skills_gained": [
+      "ux design",
+      "prototyping",
+      "user research"
+    ],
+    "career_paths": [
+      "UX designer",
+      "product designer"
+    ],
+    "difficulty": 2,
+    "weekly_hours": 5,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS551",
+    "title": "Mobile App Development",
+    "credits": 3,
+    "category": "Software",
+    "description": "Cross-platform apps using Flutter/React Native, state management, offline sync and publishing.",
+    "syllabus_topics": [
+      "Flutter",
+      "state management",
+      "REST integration",
+      "app store release"
+    ],
+    "prerequisites": [],
+    "required_skills": {
+      "python": 1
+    },
+    "skills_gained": [
+      "mobile development",
+      "flutter"
+    ],
+    "career_paths": [
+      "mobile developer",
+      "startup engineer"
+    ],
+    "difficulty": 2,
+    "weekly_hours": 7,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS560",
+    "title": "MLOps & Model Deployment",
+    "credits": 3,
+    "category": "AI",
+    "description": "Taking ML to production: experiment tracking, serving, monitoring, feature stores and pipelines.",
+    "syllabus_topics": [
+      "MLflow",
+      "model serving",
+      "Docker",
+      "monitoring and drift",
+      "CI for ML"
+    ],
+    "prerequisites": [
+      "CS301"
+    ],
+    "required_skills": {
+      "python": 3,
+      "machine learning": 2
+    },
+    "skills_gained": [
+      "mlops",
+      "model deployment",
+      "docker"
+    ],
+    "career_paths": [
+      "ML engineer",
+      "MLOps engineer",
+      "AI platform engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 7,
+    "min_cgpa": 6.5,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS561",
+    "title": "Generative AI & LLM Applications",
+    "credits": 3,
+    "category": "AI",
+    "description": "Prompting, RAG, vector databases, agents and evaluating LLM-based applications.",
+    "syllabus_topics": [
+      "prompt engineering",
+      "RAG",
+      "vector databases",
+      "LLM agents",
+      "evaluation and safety"
+    ],
+    "prerequisites": [
+      "CS301"
+    ],
+    "required_skills": {
+      "python": 3,
+      "machine learning": 2
+    },
+    "skills_gained": [
+      "llm",
+      "rag",
+      "agents",
+      "generative ai"
+    ],
+    "career_paths": [
+      "LLM engineer",
+      "AI product engineer",
+      "ML engineer"
+    ],
+    "difficulty": 3,
+    "weekly_hours": 8,
+    "min_cgpa": 6.5,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "MG501",
+    "title": "Entrepreneurship & Product Management",
+    "credits": 3,
+    "category": "Management",
+    "description": "Idea validation, lean startup, product roadmaps, go-to-market and basic finance.",
+    "syllabus_topics": [
+      "lean startup",
+      "product roadmap",
+      "pitching",
+      "unit economics"
+    ],
+    "prerequisites": [],
+    "required_skills": {},
+    "skills_gained": [
+      "product management",
+      "entrepreneurship",
+      "communication"
+    ],
+    "career_paths": [
+      "product manager",
+      "founder"
+    ],
+    "difficulty": 1,
+    "weekly_hours": 4,
+    "min_cgpa": 0,
+    "offered": "both",
+    "min_semester": 5
+  },
+  {
+    "code": "CS570",
+    "title": "Quantum Computing Basics",
+    "credits": 3,
+    "category": "Advanced",
+    "description": "Qubits, gates, quantum algorithms (Shor, Grover) and Qiskit programming.",
+    "syllabus_topics": [
+      "qubits",
+      "quantum gates",
+      "Grover",
+      "Shor",
+      "Qiskit"
+    ],
+    "prerequisites": [
+      "MA201"
+    ],
+    "required_skills": {
+      "math": 4,
+      "python": 2
+    },
+    "skills_gained": [
+      "quantum computing",
+      "linear algebra"
+    ],
+    "career_paths": [
+      "quantum researcher"
+    ],
+    "difficulty": 5,
+    "weekly_hours": 10,
+    "min_cgpa": 7.5,
+    "offered": "even",
+    "min_semester": 6
+  }
+]

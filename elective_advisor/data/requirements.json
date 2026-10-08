@@ -1,0 +1,9 @@
+{
+  "program": "B.Tech CSE (AI & ML)",
+  "elective_credits_required": 18,
+  "category_minimums": {
+    "AI": 6,
+    "Software": 3
+  },
+  "notes": "Students must earn 18 elective credits across semesters 5-8, including at least 6 credits in AI and 3 in Software."
+}

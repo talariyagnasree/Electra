@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Asha",
+    "cgpa": 8.7,
+    "semester": 6,
+    "completed_courses": [
+      "CS201",
+      "CS210",
+      "CS220",
+      "CS301",
+      "MA201",
+      "CS540"
+    ],
+    "skills": {
+      "python": 4,
+      "machine learning": 3,
+      "math": 3,
+      "sql": 3,
+      "networking": 2
+    },
+    "target_skills": [
+      "llm",
+      "deep learning"
+    ],
+    "interests": [
+      "NLP",
+      "chatbots",
+      "language models"
+    ],
+    "career_goal": "ML engineer building LLM products",
+    "core_weekly_hours": 24,
+    "max_weekly_hours": 48,
+    "min_elective_credits": 6,
+    "max_elective_credits": 9,
+    "risk_preference": "growth"
+  },
+  {
+    "name": "Ravi",
+    "cgpa": 6.6,
+    "semester": 6,
+    "completed_courses": [
+      "CS201",
+      "CS210",
+      "CS220"
+    ],
+    "skills": {
+      "python": 2,
+      "sql": 3,
+      "networking": 3,
+      "machine learning": 1
+    },
+    "target_skills": [
+      "cloud",
+      "devops"
+    ],
+    "interests": [
+      "web apps",
+      "cloud",
+      "backend"
+    ],
+    "career_goal": "Backend / DevOps engineer",
+    "core_weekly_hours": 30,
+    "max_weekly_hours": 44,
+    "min_elective_credits": 6,
+    "max_elective_credits": 9,
+    "risk_preference": "safe"
+  },
+  {
+    "name": "Meera",
+    "cgpa": 9.3,
+    "semester": 7,
+    "completed_courses": [
+      "CS201",
+      "CS210",
+      "CS220",
+      "CS301",
+      "MA201"
+    ],
+    "skills": {
+      "python": 5,
+      "machine learning": 4,
+      "math": 5,
+      "operating systems": 3
+    },
+    "target_skills": [
+      "reinforcement learning",
+      "computer vision"
+    ],
+    "interests": [
+      "robotics",
+      "reinforcement learning",
+      "research"
+    ],
+    "career_goal": "AI researcher in robotics",
+    "core_weekly_hours": 20,
+    "max_weekly_hours": 52,
+    "min_elective_credits": 6,
+    "max_elective_credits": 9,
+    "risk_preference": "growth"
+  }
+]
